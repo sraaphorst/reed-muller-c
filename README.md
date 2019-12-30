@@ -1,4 +1,4 @@
-# Reed-Muller in C
+# Reed-Muller Codes in C
 
 **Status:** Complete, verson 1.0.0.
 
